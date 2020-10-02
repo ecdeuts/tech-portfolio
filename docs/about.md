@@ -3,6 +3,7 @@ id: about
 title: About
 ---
 
+I am Erin, a Master's student at the Unversity of Michigan studying Computer Science Engineering.  I am focused on Web Development and Programming Languages development.
 You can start your "About" page with an elevator pitch, one or two
 sentences about you! The rest of this page page can
 include a little bit about yourself. Some things you
@@ -19,14 +20,9 @@ Write it in first (I) or third (Your Name Here) person.
 
 ## Current Role
 
+Graduate Student Instructor for EECS 485: Web Systems
 Grace Hopper Celebration Attendee
 
 ## Recognition
 
 - 2020 Awesome Woman in Technology Award
-
-## Social Media
-
-- Twitter
-- LinkedIn
-- GitHub
